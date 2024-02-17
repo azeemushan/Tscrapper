@@ -1,17 +1,10 @@
-=== Crawlomatic Multisite Scraper Post Generator Plugin for WordPress ===
-Contributors: coderevolution
-Donate link: https://www.patreon.com/coderevolution
-Tags: popup, subscribers
-Requires at least: 4.0
-Tested up to: 6.2
-Stable tag: 6.2
-License: Regular/Extended License
+=== Tscrapper | Multisite Scraper Post Generator Plugin for WordPress ===
+Contributors: Zetasoft
 
-Another plugin made by CodeRevolution.
 
 == Description ==
 
-Nice to meet you! My name is Szabi from CodeRevolution. We are a team of a few people who work FULL TIME as freelancers, making plugins and scripts for Envato Market. Because we dedicate all our time to this, our items are filled with passion, and we can offer premium support to our customers all the time! Feel free to ask in advance any question you might have about our items! If you buy any of our items, you will have support in case something is not working as specified, related to our item, according to Envato Support Policy. 
+Nice to meet you! My name is Azeem from Zetasoft. We are a team of a few people who work FULL TIME as freelancers, making plugins and scripts for Envato Market. Because we dedicate all our time to this, our items are filled with passion, and we can offer premium support to our customers all the time! Feel free to ask in advance any questions you might have about our items! If you buy any of our items, you will have support in case something is not working as specified, related to our item, according to the Envato Support Policy. 
 Hope that you enjoy my work!
 
 == Installation ==
@@ -26,8 +19,3 @@ Hope that you enjoy my work!
 = How do I update this plugin? =
 
 This plugin supports automatical updating. Please click "Check for updates" for this plugin in the WordPress plugins control panel. If a new version is available you will be prompted. Click "Update now" to finish the updating process.
-
-== Changelog ==
-
-= 1.0 =
-For a detailed changelog, please check the plugin's CodeCanyon page, from here (search for the plugin, from our portfolio): //1.envato.market/coderevolutionplugins
